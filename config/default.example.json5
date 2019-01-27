@@ -1,0 +1,12 @@
+{
+  "weatherClients": {
+    "forecastIo": {
+      "token": "12345"
+    }
+  },
+  "locationClients": {
+    "mapQuest": {
+      "token": "67890"
+    }
+  }
+}

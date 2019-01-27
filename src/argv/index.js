@@ -1,5 +1,6 @@
 const yargs = require('yargs');
 const fetchWeatherBuilder = require('../core/actions');
+const config = require('config');
 
 const main = async () => {
   const argv = yargs
